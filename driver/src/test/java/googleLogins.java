@@ -20,7 +20,7 @@ public class googleLogins {
         return new Object[][]{
                 {"sadovec.k@gail.com", " ", Boolean.FALSE},
                 {"sadovec.k@gmail.com", "123", Boolean.FALSE},
-                {"sadovec.k@gmail.com", "z7334945z ", Boolean.TRUE},
+                {"sadovec.k@gmail.com", "********", Boolean.TRUE},
         };
     }
 
